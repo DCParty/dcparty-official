@@ -270,7 +270,7 @@ export default function DCPartySite() {
         {/* 底部行動號召 */}
         <div className="absolute bottom-20 left-8 md:left-20 max-w-xl z-20">
           <div className="flex items-center gap-2 text-orange-500 font-mono text-sm mb-2 animate-pulse">
-            <Activity size={16} /> SYSTEM_ONLINE
+            <Activity size={16} /> SYSTEM_ONLINE v2.0
           </div>
           <h2 className="text-4xl md:text-6xl font-black mb-4 text-white glitch-layer">
             WE BUILD <span className="text-orange-500 bg-white/10 px-2">CHAOS</span>
@@ -649,7 +649,7 @@ export default function DCPartySite() {
             <p>TAIPEI_OPERATIONS_CENTER</p>
           </div>
           <div className="text-right">
-            <p className="text-orange-500">SYS_VER: 2.0.24</p>
+            <p className="text-orange-500">SYS_VER: 2.0.24 (Patch 1)</p>
             <p className="mt-2">© DCPARTY ALL RIGHTS RESERVED.</p>
           </div>
         </footer>
